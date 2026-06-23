@@ -1,0 +1,9 @@
+{
+  "name": "seja-minimalista-instagram-bot",
+  "version": "1.0.0",
+  "description": "Bot de automação de comentários Instagram — Seja Minimalista",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}
